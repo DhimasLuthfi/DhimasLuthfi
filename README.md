@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ0bjJoeWJpbzB5OG94bzM0ZTU1ZzFkMDRndm5ucnp2OXA2c3V0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vQSQ3cNXuDGo/giphy.gif
 <!--
 **DhimasLuthfi/DhimasLuthfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
